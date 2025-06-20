@@ -1,22 +1,22 @@
 # education-simce
-Análisis de los resultados del SIMCE y factores socioeconómicos en Chile
+Analysis of SIMCE Results and Socioeconomic Factors in Chile
 
-Este proyecto analiza los resultados del SIMCE en Chile, explorando la relación entre rendimiento académico, tipo de escuela, nivel de vulnerabilidad y gasto por estudiante.
+This project analyzes the results of the SIMCE in Chile, exploring the relationship between academic performance, school type, vulnerability level, and expenditure per student.
 
-Herramientas
+Tools
 PostgreSQL + DBeaver
 Python (Pandas, Matplotlib, Scipy)
-Energía BI
+Energy BI
 
-Objetivo
-Determinar si existen correlaciones significativas entre el deseo del SIMCE y variables como tipo de escuela, gasto por estudio y porcentaje de vulnerabilidad.
+Objective
+To determine if there are significant correlations between SIMCE performance and variables such as school type, expenditure per student, and vulnerability percentage.
 
-Metodología
-Consulta y limpieza de datos con SQL
-Análisis descriptivo y prueba de hipótesis en Python
-Visualización de resultados en Power BI
+Methodology
+Data querying and cleaning with SQL
+Descriptive analysis and hypothesis testing in Python
+Results visualization in Power BI
 
-Archivos
-/sql/: Consultas SQL
-/cuadernos/: Análisis exploratorio en Jupyter
-/visualizaciones/: Capturas de pantalla del panel
+Files
+/sql/: SQL queries
+/notebooks/: Exploratory analysis in Jupyter
+/visualizations/: Dashboard screenshots
